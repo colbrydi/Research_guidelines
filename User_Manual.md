@@ -3,7 +3,7 @@
 ## Introduction
 Greetings! I appreciate your interest in understanding how I work. This document aims to provide insights into my preferences, work style, and communication. Let's dive in!
 ### 1. Call me Dirk
-First, although I will respond to titles such as Dr. Colbry or Professor, I prefer that people call me Dirk and I use He/Him/His/ pronouns. I realize calling someone in authority by their first name can be hard for some students from other cultures, but it is truly okay and not disrespectful.  Also, please tell me what you would like to be addressed.  If you are patient with me, I also really like learning how to correctly pronounce names that are unfamiliar, it just may take me some time and practice. 
+First, although I will respond to titles such as Dr. Colbry or Professor, I prefer that people call me Dirk and I use He/Him/His pronouns. I realize calling someone in authority by their first name can be hard for some students from other cultures, but it is truly okay and not disrespectful.  Also, please tell me what you would like to be addressed.  If you are patient with me, I also really like learning how to correctly pronounce names that are unfamiliar, it just may take me some time and practice. 
 ### 2. Fun Fact About Me
 I prioritize my life in the following order: family, personal health, students, and work. Outside of work, I enjoy making things using digital manufacturing, using tools such as 3D printers, CNC machines, laser cutters etc.  
 
