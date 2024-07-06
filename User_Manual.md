@@ -35,7 +35,7 @@ Email is my go-to. For efficiency, one question per email helps me manage tasks 
 
 I also enjoy conducting code reviews asynchronously, a process that involves students sharing links to their Git repositories with questions. I create detailed videos, walk through cloning the repositories, conduct a thorough code review, and address questions. When it is useful, I generate a pull request and include the process in the video to help with the learning experience.  
 
-For face-to-face interactions, use this website to schedule a meeting. Zooming is my default, and including a short agenda helps me prepare and optimize our time.  
+For face-to-face interactions, use [this website](http://bookdirk.colbry.com] to schedule a meeting. Zooming is my default, and including a short agenda helps me prepare and optimize our time.  
 
 Note that my bookings website only shows time that I have not yet blocked off for work. If you are unable to find a time on the website, please email me blocks of time you are available. I can often move things around and prefer to schedule things manually rather than have people wait.  
 
