@@ -8,7 +8,7 @@ Documents I often use when working with students in my group. I am sharing them 
 
 [Link to these documents on my website](https://colbrydi.github.io/Research_guidelines/)  
 
-[Link to these documents on github](https://github.com/colbrydi/Research_guidelines)
+[Link to these documents on github](https://github.com/colbrydi/Research_guidelines)  
 
 ---
 
