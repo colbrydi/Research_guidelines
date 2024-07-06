@@ -45,6 +45,10 @@ Initiative is key. Taking the lead in problem-solving while awaiting my input ea
 ### 8. Feedback
 Constructive feedback is crucial. Vague criticisms frustrate me, so providing specific examples enhances our mutual understanding. Communication and collaboration is the key to improvement.  
 
+When looking for feedback on a written assignment I prefer people to send me a shared document which allows me to "track changes".  I am flexible to the format but things like google docs, word and overleaf work quite well. 
+
+Similarly, when requesting my feedback on code I prefer collaborators to submit their work via a git repository which I can easily clone and edit.  Git is my go-to version control tool and is the best way for me to work collaboratively with a wide variety of teams.   I especially like it when we use tools like issues and pull requests.  Please make sure the repository has complete instructions for reproducing the work and let me know if you need help, I have a lot of examples and tutorials I can share.   
+
 ### 9. Misunderstandings
 I'm an open book who cares about others' opinions. While I may appear neutral, I often hold nuanced opinions which I sometimes do not communicate well. I am terrible at arguing my point (especially if it intuitively seems right to me). It generally works best to engage me in conversations to understand each other better. Let me know if you think I am being obtuse or condescending, I sometimes need a push to see other points of view. Give me time to absorb the criticism, it often takes some reflection before I can respond properly.  
 
