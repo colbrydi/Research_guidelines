@@ -6,6 +6,8 @@ Documents I often use when working with students in my group. I am sharing them 
 * [Mentor Agreement](Mentor_Agreement.md)
 
 
+[Link to these documents on a website](https://colbrydi.github.io/Research_guidelines/)  
+[Link to these documents on github](https://github.com/colbrydi/Research_guidelines)
 ---
 
 Written by Dr. Dirk Colbry, Michigan State University
