@@ -110,10 +110,10 @@ Communications with your mentor will be through weekly meetings, weekly 3x3 refl
 
 ## 4. MSU Emploees
 
-If you are being paid as an MSU emploee you have the additional following requirements:
+If you are being paid as a MSU emploee you have the additional following requirements:
 
 ### 4.1 Timesheets:  
-Time must be filled out online using the digital timesheet system found by logging into the following website:
+For hourly employees, time must be filled out online using the digital timesheet system found by logging into the following website:
 
 <http://ebs.msu.edu/>
 
