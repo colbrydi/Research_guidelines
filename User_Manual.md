@@ -24,7 +24,7 @@ The primary editor's job is to keep track of 'official' document by accepting/re
 
 It is the responsibility of the other collaborators to only make changes with "track changes" turned on. This ensures full control of the final product to the primary editor.  The other collaborators should respond to comments but not delete them.  Instead of deleting them they can reply to the comment and acknowledge that they have addressed what was said as a signal to the primary editor to delete the comment.  
 
-Similarly, when collaborative on writing code I prefer using a git repository which I can easily clone and edit.  Git is my go-to version control tool and is the best way for me to work collaboratively with a wide variety of teams.   I especially like it when we use tools like issues and pull requests.  Please make sure the repository has complete instructions for reproducing the work and let me know if you need help, I have a lot of examples and tutorials I can share.   
+Similarly, when collaborating on writing code I prefer using a git repository which I can easily clone and edit.  Git is my go-to version control tool and is the best way for me to work collaboratively with a wide variety of teams.   I especially like it when we use tools like issues and pull requests.  Please make sure the repository has complete instructions for reproducing the work and let me know if you need help, I have a lot of examples and tutorials I can share.   
 
 ### 5. Learning Style
 I find my own learning preferences align strongly with hands-on experiences and real-world applications. This approach extends to my teaching style as well, while I occasionally find myself in lecture mode, I prefer to try and engage students in real-world, project-based learning.  
