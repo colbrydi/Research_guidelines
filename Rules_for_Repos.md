@@ -1,7 +1,7 @@
 # Dirk's Guidelines for Project Code Repositories
 
 ## Projects need to be Safe
-Projects must prioritize safety in terms of data handling, ethical considerations, and compliance with legal and institutional standards. All members of Dirk's Project teams must follow MSU usage guildines.
+Projects must prioritize safety in terms of data handling, ethical considerations, and compliance with legal and institutional standards. All members of Dirk's Project teams must read and follow [MSU usage guildines](https://tech.msu.edu/about/guidelines-policies/aup/).
 
 * ***Ethical:*** Projects should be developed and used in ways that are ethically sound. This means avoiding harm, respecting user privacy, and considering the broader social impact of the work.
 * ***Data Security:*** Ensure that all sensitive data is handled securely. This includes encrypting data when necessary, avoiding the inclusion of confidential information in code repositories, and following best practices for data protection.
