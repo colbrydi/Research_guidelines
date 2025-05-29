@@ -1,5 +1,5 @@
 # Dirk's Guidelines for Project Code Repositories
-***Safe, Portable, Reproducable, Robust and Literate***
+***Safe, Portable, Reproducible, Robust and Literate***
 
 ## Projects need to be Safe
 Projects must prioritize safety in terms of data handling, ethical considerations, and compliance with legal and institutional standards. All members of Dirk's Project teams must read and follow [MSU usage guildines](https://tech.msu.edu/about/guidelines-policies/aup/).
