@@ -7,7 +7,7 @@ First, although I will respond to titles such as Dr. Colbry or Professor, I pref
 ### 2. Fun Fact About Me
 I prioritize my life in the following order: family, personal health, students, and work. Outside of work, I enjoy making things using digital manufacturing, using tools such as 3D printers, CNC machines, laser cutters etc.  
 
-At work passions revolve around facilitating others' learning and research. I lead the user support team at the Institute for Cyber Enabled Research (ICER), manage the SEE-Insight research lab, coordinate the data science capstone program, run the CMSETech group, and contribute to the CyberAmbassadors national organization, focusing on professional skills training.
+At work passions revolve around facilitating others' learning and research. I lead the SEE-Insight research lab, coordinate the data science capstone program, run the CMSETech group, and contribute to the CyberAmbassadors national organization, focusing on professional skills training.
 ### 3. Work Dynamics
 I thrive on managing multiple roles, projects, and tasks through a complex organization system I assembled, continuously fine-tuning it for efficiency. My toolkit includes calendars, role lists, project lists, next-item tasks, multiple contact lists, and habit lists—all organized through scripts on my multiple computers. Rarely in my office, I encourage reaching out via email, my primary communication channel. 
 
