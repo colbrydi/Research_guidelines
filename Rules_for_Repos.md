@@ -37,7 +37,7 @@ Robust means that the code isn't sensitive to small changes which will make it e
 * Establish success metrics for evaluating code. These metrics should be able to clearly measure if the system is getting better.  
 * Avoid copy/paste of words/code.  Try to write something once and reference it in other places.  Use libraries (ex ```py``` files) to store redundant code. This also goes for documentation.  Don't have the same instructions in multiple places. 
 * Logically separate interface code from model code and data read/write code.
-* Interface development should go in order: programming interface first, command line interfaces second, graphical user interfaces third. Jumping directly to the GUI design will skip keep steps and make the code overly complex.  Each interface step should build off the other to help make the code robust and clean. 
+* Interface development should go in order: programming interface first, command line interfaces second, graphical user interfaces third. Jumping directly to the GUI design will skip key steps and make the code overly complex.  Each interface step should build off the other to help make the code robust and clean. 
 * Whever possible write unit testing code and build automated checks.
 
 ## Projects need to be Literate
