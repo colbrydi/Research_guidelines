@@ -21,12 +21,12 @@ Portability means that the project can be moved between users and systems.
     * Only include top level required libraries and let the dependencies automatically get added by the installer.
     * Avoid using exact version numbers and let the installer pick them. If you must pick a version number use a >= option to be the most flexible or <= if there is a problem with a newer version.  
     * Test install instructions on more than one architecture. Ideally Windows, Mac and Linux.
-* Use a common "Default" architecture that is available to everyone using the project. For example, if it is internal to MSU you can use the MSU HPCC.  If it is external to MSU try Google Collab.  Actually, getting notebooks to work by default in Google Collab is a great idea (assuming NDAs are followed).
+* Use a common "Default" architecture that is available to everyone using the project. For example, if it is internal to MSU you can use the MSU HPCC.  If it is external to MSU try Google Collab.  Actually, getting notebooks to work by default in Google Collab is a great idea (assuming Non-Disclosure Agreements are followed).
       
 ## Projects need to be Reproducible
 Reproducability means that the code generates the same results for everyone. This allows people to start where someone else leaves off.
 
-* When appropriate include descriptions of the Hardware and OS where most of the development was conducted. This will help future developers debug problems. 
+* When appropriate include descriptions of the Hardware and Operating System (OS) where most of the development was conducted. This will help future developers debug problems. 
 * Automate the install whenever possible. Things like makefiles and bash scripts can be very helpful.  Just make sure they are well documented.
 * Best install instructions are single command but with details on what that command is doing so that it can be easily debugged or changed. 
 * Include a second ```enviornment.yml``` or ```requirements.txt``` file with a different filename that includes the exact working environment.  This is intended as a reference to help debugging if something goes wrong with the more portable install.
@@ -65,7 +65,7 @@ Literate means that the project is well documented and communities what it is su
 * Learn Markdown and Use it. Include pictures and links in your comments. 
 * Every jupyter notebook should have a Markdown cell at the top with a title and a description of what the file does and why.
 * Whenever possible use "Kernel Restart and Clear all output" before adding and committing a jupyter notebook to a git repsitory. This will remove the binary data and make it cleaner for git. 
-* Develop modules and classes in jupyter for rapid API development and move them to python libraries to help with robustness. 
+* Develop modules and classes in jupyter for rapid API (Advanced Programming Interface) development and move them to python libraries to help with robustness. 
 
 ***NOTE:*** There are exceptions to every rule.  However, it is important to understand why the rule exists before you can understand when it is okay to make an exception.
 
