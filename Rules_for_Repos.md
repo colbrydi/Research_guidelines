@@ -55,6 +55,23 @@ Literate means that the project is well documented and communities what it is su
     * Organize the folders in a matter that makes sense.
     * Whenever possible use established coding standards.
 
+## AI / LLM Usage in Projects
+
+LLMs (such as ChatGPT, Claude, Copilot, and similar tools) may be used as part of project development. These tools can be helpful for brainstorming ideas, debugging code, explaining concepts, and generating initial drafts of implementations or documentation. However, LLM output should always be treated as a starting point, not a final solution.
+
+Code should prioritize simplicity and clarity. LLMs often produce solutions that are more complex than necessary, so users of LLMs are expected to simplify generated ideas, remove unnecessary abstractions, and prefer direct and readable implementations. Good engineering practice favors solutions that are easy to understand, explain, and modify.
+
+If an LLM meaningfully contributes to a commit, include a brief note in the commit message using:
+
+> LLM: short description of how it was used
+
+This helps preserve a clear development history and makes it easier to understand how ideas evolved over time.
+
+For example, an LLM may help identify a bug, suggest an initial approach that is later simplified, or assist in debugging a specific issue. In all cases, the final implementation should reflect the developer's understanding and design decisions, not just generated output.
+
+The key principle is that LLM output is part of the design process, not the final artifact. The quality of the work is determined by clarity of reasoning, simplicity of design, and correctness of implementation—not by the use of AI tools.
+
+
 ## Use Git as Git was intended
 * Use a premade ```.gitignore``` file from the internet for the coding language you are using. 
 * Avoid adding data to a git code repository. This includes input data, intermediate data and output data.  Data should be stored someplace else and referenced. Instructions should be clear how to bring data into repository to use. 
