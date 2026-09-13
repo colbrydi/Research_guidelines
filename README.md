@@ -6,6 +6,7 @@ Documents I often use when working with students in my group. I am sharing them 
 * [Mentor Agreement](Mentor_Agreement.md)
 * [Rules for Repositories](Rules_for_Repos.md)
 * [Reviewing Scientific Articles](Article_Review.md)
+* [Getting to Know Git - Introduction Tutorial](Getting-to-know-git.md)
 
 [Link to these documents on my website](https://colbrydi.github.io/Research_guidelines/)  
 
