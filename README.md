@@ -7,6 +7,7 @@ Documents I often use when working with students in my group. I am sharing them 
 * [Rules for Repositories](Rules_for_Repos.md)
 * [Reviewing Scientific Articles](Article_Review.md)
 * [Getting to Know Git - Introduction Tutorial](Getting-to-know-git.md)
+* [Dirk's 3x3 Reflection Process](Dirk's 3x3 Reflection Process.md)
 
 [Link to these documents on my website](https://colbrydi.github.io/Research_guidelines/)  
 
