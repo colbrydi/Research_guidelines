@@ -26,11 +26,11 @@ If you would like me to serve as a reference or write a recommendation letter, p
 
 1. A current resume or CV.
 2. A draft recommendation letter.
-
-The draft serves two purposes. First, it helps remind me of experiences we shared that may be relevant to the opportunity.
-Second, it helps me understand what role my letter should play within the larger application. For example, if another letter
-focuses on your technical expertise, my letter might be more effective if it emphasizes teamwork, leadership, professionalism,
-or growth.
+   
+The draft serves several purposes. It helps me remember experiences we shared that may be relevant to the opportunity, helps
+me understand what role my letter should play within the larger application, and gives you practice thinking about what makes
+an effective recommendation letter. It also helps identify accomplishments, contributions, or experiences that I may have
+forgotten and provides me with a starting point for writing.
 
 I will use the draft only as a guide. I will rewrite the letter in my own voice and only include stories and examples that I remember
 and can honestly describe from firsthand experience. If I cannot verify a claim through my own experiences working with you, I
