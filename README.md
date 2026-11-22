@@ -4,10 +4,12 @@ Documents I often use when working with students in my group. I am sharing them 
 * [Dirk's User Manual](User_Manual.md)
 * [Author Guidelines](Author_Guidelines.md)
 * [Mentor Agreement](Mentor_Agreement.md)
-* [Rules for Repositories](Rules_for_Repos.md)
+* [Dirk's 3x3 Reflection Process](My_3x3_Reflection_Process.md)
+* [Requesting Letters of Reference](Requesting_Letters_of_Reference.md)
 * [Reviewing Scientific Articles](Article_Review.md)
 * [Getting to Know Git - Introduction Tutorial](Getting-to-know-git.md)
-* [Dirk's 3x3 Reflection Process](My_3x3_Reflection_Process.md)
+* [Rules for Repositories](Rules_for_Repos.md)
+
 
 [Link to these documents on my website](https://colbrydi.github.io/Research_guidelines/)  
 
